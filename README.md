@@ -1,11 +1,14 @@
 # elevator-saga-solution
-Solution for ElevatorSaga
+**Solution for Elevator Saga**
+Links:
+* https://play.elevatorsaga.com/
+* https://github.com/magwo/elevatorsaga
 
-This is a solution to all challenges of Elevator Saga (https://play.elevatorsaga.com/) v1.6.5. Several of the challenges took multiple runs to succeed, notably the "less than X moves" and "max wait time of X" challenges. (It seems like "wait time" is defined as time from showing up at the elevator to time getting off the elevator, not just the time spent waiting to get on the elevator.)
+This is a solution to all challenges of Elevator Saga v1.6.5. Several of the challenges took multiple runs to succeed, notably the "less than X moves" and "max wait time of X" challenges. (It seems like "wait time" is defined as time from showing up at the elevator to time getting off the elevator, not just the time spent waiting to get on the elevator.)
 
 Rather than write optimized solutions for each of the different styles of challenges, I tried to write a single solution that, given sufficiently cooperative RNG, would suffice for all 18 challenges. The majority of challenges completed in 1 or 2 attempts; a couple took 5 or 6 tries; the final 21-floor behemoth took 18 tries; and challenge 14 took somewhere north of 100 runs.
 
-Statistics for the perpetual demo (challenge 19):
+## Statistics for the perpetual demo (challenge 19):
 * 10000 transported
 * 6679s elapsed
 * 1.5 transported/second
