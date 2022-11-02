@@ -1,8 +1,8 @@
 # elevator-saga-solution
 **Solution for Elevator Saga**
 Links:
-* https://play.elevatorsaga.com/
-* https://github.com/magwo/elevatorsaga
+* Play game: https://play.elevatorsaga.com/
+* Source: https://github.com/magwo/elevatorsaga
 
 This is a solution to all challenges of Elevator Saga v1.6.5. Several of the challenges took multiple runs to succeed, notably the "less than X moves" and "max wait time of X" challenges. (It seems like "wait time" is defined as time from showing up at the elevator to time getting off the elevator, not just the time spent waiting to get on the elevator.)
 
