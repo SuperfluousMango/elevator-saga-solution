@@ -5,8 +5,6 @@ This is a solution to all challenges of Elevator Saga (https://play.elevatorsaga
 
 Rather than write optimized solutions for each of the different styles of challenges, I tried to write a single solution that, given sufficiently cooperative RNG, would suffice for all 18 challenges. The majority of challenges completed in 1 or 2 attempts; a couple took 5 or 6 tries; the final 21-floor behemoth took 18 tries; and challenge 14 took somewhere north of 100 runs.
 
-There are two solution files in this repository. The debug-solutions.js file includes a significant amount of logging, which was useful for debugging some edge cases. The logging can be turned off by setting the `showDebugOutput` variable on line 6 to false.
-
 Statistics for the perpetual demo (challenge 19):
 * 10000 transported
 * 6679s elapsed
